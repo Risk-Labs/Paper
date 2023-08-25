@@ -1,16 +1,8 @@
-# Frontinus House Builder Proposal
 
-## Cheelax - Risk of the Realms
+
+## Risk of the Realms
 
 ![Risk of the Realms](https://github.com/BibliothecaDAO/Frontinus-House-Docs/assets/18716884/9bc63334-76a3-4564-b6f7-66f52bca0178)
-
-**Introduction**
-
-Name or social handle of proposer: Cheelax
-
-Ethereum Mainnet Address: 0xc57B65B26CBA8169F10295D8152deF3e0Bc8864e
-
-Twitter handle : [https://twitter.com/Cheelax_](<https://twitter.com/Cheelax_>) feel free to dm !
 
 ## Project detail
 
@@ -137,8 +129,6 @@ Alpha version | Team | 03/01/24
 
 
 <p>Each part represent a smart contract and its related frontend, we will organise a live demo for each milestone (when relevant).</p>
-<h3>Grant Request</h3>
-<p>100000 $LORDS</p>
 
 
 ## Art tests
